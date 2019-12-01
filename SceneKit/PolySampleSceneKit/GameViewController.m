@@ -18,7 +18,7 @@
 #import <SceneKit/ModelIO.h>
 
 // IMPORTANT: replace this with your project's API key.
-static NSString * const POLY_API_KEY = @"YOUR KEY HERE";
+static NSString * const POLY_API_KEY = @"AIzaSyB2xFMKlelZxq1m5ouzTAHyur8XWYhzgWk";
 static NSString * const POLY_BASE_GET_ASSET_URL = @"https://poly.googleapis.com/v1/assets";
 static NSString * const POLY_ASSET_ID = @"5vbJ5vildOq";
 
